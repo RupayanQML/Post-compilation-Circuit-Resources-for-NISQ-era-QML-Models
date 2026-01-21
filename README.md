@@ -1,20 +1,12 @@
 # Post-compilation-Circuit-Resources-for-NISQ-era-QML-Models
-This repository contains the code accompanying the paper:
-
-“Characterizing Scaling Trends of Post-Compilation Circuit Resources for NISQ-era QML Models”
-
-It provides reproducible experiments and figures used to analyze post-compilation circuit resource overheads and fidelity scaling trends for Quantum Machine Learning (QML) models on NISQ-era hardware.
+This repository contains the code accompanying the paper:“Characterizing Scaling Trends of Post-Compilation Circuit Resources for NISQ-era QML Models”. It provides reproducible experiments and figures used to analyze post-compilation circuit resource overheads and fidelity scaling trends for Quantum Machine Learning (QML) models on NISQ-era hardware.
 
 ## Repository Structure
 
 The repository is organized into two main folders:
 
 ### Post-compilation resource analysis
-Code and figures for assessing post-compilation circuit resource overheads (SWAP count, circuit depth, two-qubit gate count) for QML models, including:
-
-Quantum kernel evaluation circuits
-
-Quantum neural networks
+Code and figures for assessing post-compilation circuit resource overheads (SWAP count, circuit depth, two-qubit gate count) for QML models, including Quantum kernel evaluation circuits and Quantum neural networks.
 
 ### Fidelity scaling analysis
 Code and figures for investigating circuit fidelity scaling trends under realistic noise models.
