@@ -25,7 +25,7 @@ Jupyter notebooks (.ipynb) implementing the experiments
 
 Figures generated using the associated code
 
-⚠️ Note: Code updates and refinements are ongoing.
+Note: Code updates and refinements are ongoing.
 
 ## Abstract
 
