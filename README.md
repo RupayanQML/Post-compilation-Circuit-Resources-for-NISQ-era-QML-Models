@@ -11,11 +11,7 @@ Code and figures for assessing post-compilation circuit resource overheads (SWAP
 ### Fidelity scaling analysis
 Code and figures for investigating circuit fidelity scaling trends under realistic noise models.
 
-Each folder contains:
-
-Jupyter notebooks (.ipynb) implementing the experiments
-
-Figures generated using the associated code
+Each folder contains: Jupyter notebooks (.ipynb) implementing the experiments along with figures generated using the associated code.
 
 Note: Code updates and refinements are ongoing.
 
